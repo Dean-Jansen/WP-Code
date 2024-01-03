@@ -3,7 +3,7 @@
 A compilation of function snippets for WordPress developers who create their own themes.
 
 ## Contributing
-Contributions are welcome! If you have suggestions, improvements, or additional features you'd like to add to the cash flow forecasting model, please open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions, improvements, or additional features you'd like to add, please open an issue or submit a pull request.
 
 
 ## The Code!
