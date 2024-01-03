@@ -54,6 +54,8 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 - [Exclude a Category From WordPress Loops](#exclude-a-category-from-wordpress-loops)
 - [Disable the message "JQMIGRATE: Migrate is installed, version 1.4.1"](#user-content-disable-the-message---jqmigrate-migrate-is-installed-version-141)
 - [Load heavy 3rd-party scripts later for better performance](#load-heavy-3rd-party-scripts-later-for-better-performance)
+- [Change wp-json REST API base](#change-wp-json-rest-api-base)
+
 
 ## Hide WordPress Update Nag to All But Admins
 
@@ -1031,4 +1033,17 @@ window.addEventListener('scroll', () => {
     }
 });
 </script>
+```
+
+
+## Change wp-json REST API base
+
+```php
+/*
+This will replace the 'wp-json' REST API prefix with 'api'.
+Be sure to flush your rewrite rules for this change to work.
+*/
+add_filter( 'rest_url_prefix', function () {
+	return 'api';
+} );
 ```
