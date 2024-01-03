@@ -1,12 +1,12 @@
-# WP Code
+# WP Code 🤘🏻🚀
 
 A compilation of function snippets for WordPress developers who create their own themes.
 
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or additional features you'd like to add to the cash flow forecasting model, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
+## The Code!
 
 - [Hide WordPress Update Nag to All But Admins](#hide-wordpress-update-nag-to-all-but-admins)
 - [Utilize Proper WordPress Titles](#utilize-proper-wordpress-titles)
