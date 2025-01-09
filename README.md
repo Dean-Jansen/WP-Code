@@ -1,6 +1,6 @@
 # WP Code 🤘🏻🚀
 
-A compilation of function snippets for WordPress developers who create their own themes.
+A compilation of code snippets for WordPress developers who create their own themes or plugins
 
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or additional features you'd like to add, please open an issue or submit a pull request.
